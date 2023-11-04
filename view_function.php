@@ -25,3 +25,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['user_type'])) {
         echo 'Error fetching user data';
     }
 }
+
+
+
+?>
